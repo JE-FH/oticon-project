@@ -1,1 +1,5 @@
 *.npy
+wtfmodel/
+music_data.mat
+other_data.mat
+test_data.mat
